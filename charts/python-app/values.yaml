@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: timee98642/python-app
   pullPolicy: IfNotPresent
-  tag: "6e8a89"
+  tag: "8df253"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
